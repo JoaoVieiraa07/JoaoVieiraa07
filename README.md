@@ -3,8 +3,10 @@
 <h1 align="center">Olá! Eu sou o João 👋</h1>
 
 <p align="center">
-  💻 Estudante de Desenvolvimento de Sistemas no SESI  
-  🇧🇷 Programador brasileiro  
+  💻 Estudante de Desenvolvimento de Sistemas no SESI
+  
+  🇧🇷 Programador brasileiro
+  
   🎯 Sempre buscando melhorar e evoluir 🚀  
 </p>
 
