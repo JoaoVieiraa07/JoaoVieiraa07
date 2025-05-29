@@ -4,10 +4,12 @@
 
 <p align="center">
   💻 Estudante de Desenvolvimento de Sistemas no SESI
-  
+  <p align="center">
   🇧🇷 Programador brasileiro
-  
-  🎯 Sempre buscando melhorar e evoluir 🚀  
+  </p>  
+  <p align="center">
+  🎯 Sempre buscando melhorar e evoluir 🚀
+  </p>  
 </p>
 
 
