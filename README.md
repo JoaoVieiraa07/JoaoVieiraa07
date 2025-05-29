@@ -1,5 +1,4 @@
 
-![MasterHead](https://github.com/JoaoVieiraa07/JoaoVieiraa07/blob/main/header.png)
 
 ## 👩‍💻 About me:
 Brazilian programmer
