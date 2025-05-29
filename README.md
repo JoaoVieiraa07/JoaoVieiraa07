@@ -32,12 +32,3 @@
   <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap" width="40" height="40"/>
 </p>
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wsjoaox&show_icons=true&theme=default"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsjoaox&layout=compact&theme=default"/>
-</p>
-
-
