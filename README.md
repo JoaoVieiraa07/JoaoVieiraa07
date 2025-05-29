@@ -2,7 +2,7 @@
 ![banner (1)](https://github.com/user-attachments/assets/b1ca1326-6fb4-4e8c-aef7-862036b22c7a)
 
 ## 👩‍💻 About me:
-Brazilian programmer
+Brazilian programmer <style>color="#343434" </style>
 
 Systems development student at SESI
 
