@@ -3,8 +3,11 @@
 
 ## 👩‍💻 About me:
 Brazilian programer
+
 Systems development student at SESI
+
 17 years old
+
 Always looking to improve 🚀
 
 ## 🌐 Connect with me:
