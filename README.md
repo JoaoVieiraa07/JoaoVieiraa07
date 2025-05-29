@@ -1,22 +1,39 @@
 ![banner (1)](https://github.com/user-attachments/assets/b1ca1326-6fb4-4e8c-aef7-862036b22c7a)
 
-## 👩‍💻 <span style="color:#343434">About me:</span>
-<span style="color:#343434">Brazilian programmer</span>  
-<span style="color:#343434">Systems development student at SESI</span>  
-<span style="color:#343434">17 years old</span>  
-<span style="color:#343434">Always looking to improve 🚀</span>
+<h1 align="center">Olá! Eu sou o João 👋</h1>
 
-## 🌐 <span style="color:#343434">Connect with me:</span>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wsjoaox) 
-
-## 🛠 <span style="color:#343434">Languages:</span>
-
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/bootstrap.png" width="40" height="40"/>
+<p align="center">
+  💻 Estudante de Desenvolvimento de Sistemas no SESI  
+  🇧🇷 Programador brasileiro  
+  🎯 Sempre buscando melhorar e evoluir 🚀  
 </p>
+
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="https://instagram.com/wsjoaox">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+
+## 🛠️ Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React Native" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap" width="40" height="40"/>
+</p>
+
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wsjoaox&show_icons=true&theme=default"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsjoaox&layout=compact&theme=default"/>
+</p>
+
 
