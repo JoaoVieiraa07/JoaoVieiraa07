@@ -2,7 +2,7 @@
 ![MasterHead](https://github.com/JoaoVieiraa07/JoaoVieiraa07/blob/main/header.png)
 
 ## 👩‍💻 About me:
-Brazilian programer
+Brazilian programmer
 
 Systems development student at SESI
 
